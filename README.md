@@ -42,7 +42,7 @@ Special thanks to **Kunal Ghosh** and **Team VLSI System Design (VSD)** 🏆 for
 
 🚀 *Journey continues... Stay tuned for updates!*
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/dev-makwana-a8815129a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/dev-makwana-a8815129a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
 
 
