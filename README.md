@@ -42,6 +42,11 @@ Special thanks to **Kunal Ghosh** and **Team VLSI System Design (VSD)** 🏆 for
 
 🚀 *Journey continues... Stay tuned for updates!*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-makwana-a8815129a)
+
+
+
+
 
 
 ✨ **This repository is my personal progress log — from RTL design to final GDSII.**
